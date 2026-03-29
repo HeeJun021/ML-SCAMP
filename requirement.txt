@@ -1,0 +1,14 @@
+yfinance
+pandas
+numpy
+scikit-learn
+ta
+matplotlib
+seaborn
+plotly
+jupyter
+ipykernel
+quantstats
+torch
+torchvision
+torchaudio
