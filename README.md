@@ -25,6 +25,7 @@
 ---
 
 ## 프로젝트 구조
+```
 ML-SCAMP/
 │
 ├── data/
@@ -39,7 +40,7 @@ ML-SCAMP/
 │   └── 05_generalization.ipynb    # 빅테크 섹터 일반화 테스트
 │
 ├── src/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── data_loader.py     # yfinance 데이터 수집
 │   ├── features.py        # 기술적 지표 계산 + 타겟 생성
 │   ├── model.py           # Random Forest 학습 + 평가
@@ -54,6 +55,7 @@ ML-SCAMP/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ## 단계별 수행 전략
 
